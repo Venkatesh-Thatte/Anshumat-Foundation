@@ -2,7 +2,7 @@
 
 Anshumat Foundation is a Section 8 non-profit organization dedicated to empowering individuals through **knowledge, mentorship, and career development**. This is the improved official website built with modern web technologies to reflect trust, social impact, and professionalism.
 
-🌐 **Live Preview**: [https://anshumat.org](https://anshumat.org) *(example link — replace with actual if deployed)*
+🌐 **Live Preview**: https://anshumat-foundation.vercel.app/
 
 ---
 
