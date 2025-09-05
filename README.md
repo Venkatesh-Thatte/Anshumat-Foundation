@@ -9,14 +9,13 @@ Anshumat Foundation is a Section 8 non-profit organization dedicated to empoweri
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./public/hero-component.png)
+![Home Page](public/hero-component.png)
 
 ### 🎯 Mission Section
-![Mission](./public/initiatives-component.png)
+![Mission](public/initiatives-component.png)
 
 ### 📚 Programs Section
-![Programs](./public/program-component.png)
-
+![Programs](public/program-component.png)
 
 
 ---
