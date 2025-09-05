@@ -76,25 +76,6 @@ The website includes smooth navigation via:
 
 ---
 
-## 📁 Project Structure
 
-anshumat-org/
-├── src/
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ ├── Hero.jsx
-│ │ ├── Mission.jsx
-│ │ ├── Initiatives.jsx
-│ │ ├── Programs.jsx
-│ │ ├── RegistrationForm.jsx
-│ │ ├── ContactForm.jsx
-│ │ └── Footer.jsx
-│ ├── App.jsx
-│ └── main.jsx
-├── public/
-│ └── logo.svg
-├── tailwind.config.js
-├── vite.config.js
-├── package.json
-└── README.md
+
 
